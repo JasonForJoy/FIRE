@@ -9,6 +9,5 @@ Our proposed **Filtering before Iteratively REferring (FIRE)** model has achieve
 ## Results
 <img src="image/result.png">
 
-## Updata
-
+## Update
 We are cleaning the code and it will be released soon! Please keep an eye on this repository if you are interested in our work. Thank you!
