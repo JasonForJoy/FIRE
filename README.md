@@ -19,8 +19,10 @@ Tensorflow 1.4.0
 
 ## Datasets
 Your can download the datasets and their corresponding embedding and vocabulary files used in our paper from the following links. <br>
+
 - [PERSONA-CHAT](https://drive.google.com/open?id=1gNyVL5pSMO6DnTIlA9ORNIrd2zm8f3QH) and its [embedding and vocabulary files](https://drive.google.com/open?id=1gGZfQ-m7EGo5Z1Ts93Ta8GPJpdIQqckC). <br>
 - [CMU_DoG](https://drive.google.com/file/d/1GYKelOS9_yvc66fe9NqMnxWAwYAfoIzP/view?usp=sharing) and its [embedding and vocabulary files](https://drive.google.com/file/d/1vCm2shBE2ZxPI1Vw6bmCVv3xujVL72Xs/view?usp=sharing). <br>
+
 Unzip the datasets to the folder of ```data``` and run the following commands. The processed files are stored in ```data/personachat_processed/``` or ```data/cmudog_processed/```. <br>
 ```
 cd data
