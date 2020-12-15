@@ -57,20 +57,6 @@ Jia-Chen Gu, Zhen-Hua Ling, Quan Liu, Zhigang Chen, Xiaodan Zhu. _EMNLP (2020)_
 
 ```
 @inproceedings{gu-etal-2020-filtering,
-    title = "Filtering before Iteratively Referring for Knowledge-Grounded Response Selection in Retrieval-Based Chatbots",
-    author = "Gu, Jia-Chen  and
-              Ling, Zhen-Hua  and
-              Liu, Quan and 
-              Chen, Zhigang and 
-              Zhu, Xiaodan",
-    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
-    month = nov,
-    year = "2020",
-    address = "Punta Cana, Dominican Republic",
-    publisher = "Association for Computational Linguistics",
-}
-
-@inproceedings{gu-etal-2020-filtering,
  title = "Filtering before Iteratively Referring for Knowledge-Grounded Response Selection in Retrieval-Based Chatbots",
  author = "Gu, Jia-Chen and
            Ling, Zhenhua and
